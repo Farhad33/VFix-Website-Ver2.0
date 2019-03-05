@@ -1,0 +1,26 @@
+{
+  "name": "vfix-website",
+  "version": "2.0.0",
+  "description": "VFix Homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farhad33/VFix-Website-Ver2.0.git"
+  },
+  "author": "Majid Rahimi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Farhad33/VFix-Website-Ver2.0/issues"
+  },
+  "homepage": "https://github.com/Farhad33/VFix-Website-Ver2.0#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.3",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1"
+  }
+}
